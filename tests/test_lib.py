@@ -3,6 +3,6 @@ import re
 
 
 def test_say_hello():
-    assert type(say_hello())==str
+    assert type(say_hello())==int
 
 #test_say_hello()
